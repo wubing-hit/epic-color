@@ -1,2 +1,5 @@
 [credential]
 	helper = store
+[user]
+	email = bing@epic
+	name = bing
